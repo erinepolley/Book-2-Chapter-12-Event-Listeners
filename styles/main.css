@@ -1,0 +1,17 @@
+#flexbox {
+    display: flex;
+    flex-direction: row;   
+    justify-content: space-around;
+}
+
+#thing-one {
+  border: 1px solid purple;
+  flex-basis: 50%;
+  margin: 5px
+}
+
+#thing-two {
+    border: 1px solid goldenrod;
+    flex-basis: 50%;
+    margin: 5px
+}
